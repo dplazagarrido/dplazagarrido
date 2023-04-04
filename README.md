@@ -18,6 +18,8 @@
 
 - :zap: In my free time, I read manga and comics 📖, play some video games 👾 and learn about photography 📸 .
 
+- 📄 CV: [ESP](https://drive.google.com/file/d/1_reebDo9nichEI9Xca83UNlXVcqIRp5N/view?usp=share_link) / [ENG]()
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
