@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: I’m currently learning about 2D video games.
 
